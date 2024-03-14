@@ -1,7 +1,7 @@
 {
   "name": "@nqduy180500/api-chat-zalo",
-  "version": "1.0.0",
-  "description": "connect to api tiwtter",
+  "version": "1.0.1",
+  "description": "connect to api chat zalo",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
